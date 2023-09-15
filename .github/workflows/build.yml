@@ -18,7 +18,7 @@ jobs:
         with:
           url: https://www.marcveens.nl/feed.xml
           file: 'README.md'
-          format: '- [${title}](${url}) - ${year}-${02month}-${02day}'
+          format: '- ${year}-${02month}-${02day} - [${title}](${url})'
       - name: Commit file changes
         run: |
             git config --global user.email "actions@users.noreply.github.com"
