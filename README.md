@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 ## Recent blog posts
 <!-- feed start -->
+- [Use MUI (Emotion) sourcemaps with Vite](https://marcveens.nl/posts/mui-sourcemaps-with-vite) - 2023-09-08
+- [React useImperativeHandle: Let the parent trigger functions of a child component](https://marcveens.nl/posts/react-let-parent-trigger-functions-of-child-component) - 2023-08-29
+- [How to fix "The AzureDevOps SDK is already loaded" for the azure-devops-extension-sdk package](https://marcveens.nl/posts/azure-devops-extension-sdk-fix-already-loaded) - 2023-08-02
+- [Consuming multiple GraphQL endpoints using Apollo Client](https://marcveens.nl/posts/consuming-multiple-graphql-endpoints-using-apollo-client) - 2023-07-12
+- [Nx + Apollo Server: Automatically generate Typescript types](https://marcveens.nl/posts/nx-apollo-auto-generate-types) - 2022-05-18
 <!-- feed end -->
