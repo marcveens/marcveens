@@ -36,7 +36,6 @@ I'm Marc, a front-end enthusiast. I have a wide range of interests, spanning fro
 ## Recent blog posts
 
 <!-- feed start -->
-
 - 2024-01-23 - [Developing Azure DevOps extensions: Good Practices](https://marcveens.nl/posts/developing-devops-extensions-good-practices)
 - 2024-01-19 - [Continuous file saving in React](https://marcveens.nl/posts/continuous-saving-file-browser)
 - 2023-09-08 - [Use MUI (Emotion) sourcemaps with Vite](https://marcveens.nl/posts/mui-sourcemaps-with-vite)
