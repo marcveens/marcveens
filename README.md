@@ -36,11 +36,11 @@ I'm Marc, a front-end enthusiast. I have a wide range of interests, spanning fro
 ## Recent blog posts
 
 <!-- feed start -->
+- 2024-05-25 - [Introducing TinyDeskDB: Your New Go-To for Tiny Desk Concerts](https://marcveens.nl/posts/introducing-tinydeskdb-com)
 - 2024-05-17 - [Scheduled web scraping made easy: using Playwright with GitHub Actions](https://marcveens.nl/posts/scheduled-web-scraping-made-easy-using-playwright-with-github-actions)
 - 2024-01-23 - [Developing Azure DevOps extensions: Good Practices](https://marcveens.nl/posts/developing-devops-extensions-good-practices)
 - 2024-01-19 - [Continuous file saving in React](https://marcveens.nl/posts/continuous-saving-file-browser)
 - 2023-09-08 - [Use MUI (Emotion) sourcemaps with Vite](https://marcveens.nl/posts/mui-sourcemaps-with-vite)
-- 2023-08-29 - [React useImperativeHandle: Let the parent trigger functions of a child component](https://marcveens.nl/posts/react-let-parent-trigger-functions-of-child-component)
 <!-- feed end -->
 
 <p><a href="https://www.marcveens.nl">➡️ More blog posts</a></p>
